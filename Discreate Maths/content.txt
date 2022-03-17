@@ -1,0 +1,7 @@
+set theory
+relations
+algeberic sturcture
+fuctions
+combinatorics
+recurrence relation
+generating function
